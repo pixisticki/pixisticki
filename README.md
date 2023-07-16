@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pixisticki
+- 👀 I’m interested in writing and photography
+- 🌱 I’m currently learning how to code
+- 📫 Reach me @ Discord: `pixisticki`
